@@ -102,7 +102,7 @@ article.portfolio ul li .info p{color:#adadad;font-size:14px;text-transform:lowe
 .light .title h1{color:#424242;text-shadow:0px 1px #fff}
 .dark .title h1{color:#ededec;text-shadow:0px 1px #010101}
 .light .title h1 span{color:#f67c05;border-left:2px dotted #f67c05;padding:0px 0px 0px 20px;text-shadow:0px 1px #fff}
-.dark .title h1 span{color:#f67c05;border-left:2px dotted #f67c05;padding:0px 0px 0px 20px;text-shadow:0px 1px #010101}
+.dark .title h1 span{color:#f67c05;border-left:2px dotted #f67c05;padding:0px 0px 0px 20px;text-shadow:0px 1px #010101;margin-left: 20px}
 .image{width:100%;height:auto;overflow:hidden}
 .image img{width:100%}
 .image .caption{background-color:#fff;text-align:center;margin:0px;padding:5px 15px 10px 15px;color:#424242;position:relative;top:-5px;box-shadow:0px 1px #dddddc}
