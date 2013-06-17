@@ -15,7 +15,7 @@ development:
   database: adaco_dev_development
   pool: 5
   username: root
-  password: root
+  password:
   socket: /var/lib/mysql/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
@@ -28,7 +28,7 @@ test:
   database: adaco_dev_test
   pool: 5
   username: root
-  password: root
+  password:
   socket: /var/lib/mysql/mysql.sock
 
 production:

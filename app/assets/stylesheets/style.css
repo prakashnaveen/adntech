@@ -162,3 +162,26 @@ footer a.twitter .time{font-weight:500;font-size:16px}.footer{background-color:#
 .switch-button{border:1px solid #ddd;border-left:1px solid #fff;display:block;height:25px;width:25px;position:absolute;margin-left:163px;margin-top:22px;cursor:pointer}
 .open{background:#fff url(../images/setting.png) no-repeat center center}
 .closed{background:#fff url(../images/setting.png) no-repeat center center}
+.team_details{border: 2px solid;border-radius: 15px;background-color: white;width: 70%;height: 110px;}
+.clear_with_height{clear: both;height: 10px;}
+.team_image{width: 70px !important;border-radius: 10px;padding: 5px;}
+.text_decoration{float: left;padding: 0 5px;color: darkturquoise !important;}
+.social_links {
+    height: 28px;
+    width: 29px;
+    background: url("../images/social_32.png") no-repeat scroll;
+    display: block;
+    float: left;
+    margin-right: 2px;
+}
+.linked_in_icon {
+    background-position: -288px 0px;
+}
+.facebook_icon {
+    background-position: -96px 0px;
+    margin-left: 10px;
+}
+.twitter_icon {
+    background-position: -288px -32px;
+    margin-left: 10px;
+}
