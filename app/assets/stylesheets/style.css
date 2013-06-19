@@ -167,8 +167,8 @@ footer a.twitter .time{font-weight:500;font-size:16px}.footer{background-color:#
 .team_image{width: 70px !important;border-radius: 10px;padding: 5px;}
 .text_decoration{float: left;padding: 0 5px;color: darkturquoise !important;}
 .social_links {
-    height: 28px;
-    width: 29px;
+    height: 32px;
+    width: 32px;
     background: url("../images/social_32.png") no-repeat scroll;
     display: block;
     float: left;
@@ -179,9 +179,7 @@ footer a.twitter .time{font-weight:500;font-size:16px}.footer{background-color:#
 }
 .facebook_icon {
     background-position: -96px 0px;
-    margin-left: 10px;
 }
 .twitter_icon {
     background-position: -288px -32px;
-    margin-left: 10px;
 }
